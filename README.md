@@ -1,4 +1,5 @@
 # SkyroomCustomize
+This is the rgb animation version of the main extention. enjoy!
 An extension written for customizing skyroom.
 
 # Installation
